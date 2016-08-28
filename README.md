@@ -45,6 +45,13 @@
             top: 357px; 
             left: 72px; 
         }
+        .silex-id-1472343397979-3 {
+            min-height: 100px; 
+            width: 251px; 
+            top: 17px; 
+            left: 24px; 
+            background-color: rgb(255, 255, 255); 
+        }
         .silex-id-1442914589168-2 {
             min-height: 50px; 
             width: 400px; 
@@ -61,7 +68,7 @@
     </style>
 
     <script type="text/javascript" class="silex-json-styles">
-        [{"desktop":{"body-initial":{"background-color":"rgb(38, 38, 38)"},"background-initial":{"background-color":"rgb(255, 255, 255)","top":"5px","left":"154px","width":"960px","min-height":"600px"},"silex-id-1442914589168-2":{"min-height":"50px","width":"400px","top":"635px","left":"6px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"28px","width":"250px","top":"13px","left":"80px"},"silex-id-1472313787502-0":{"min-height":"99px","width":"252px","top":"64px","left":"74px"},"silex-id-1472343098980-1":{"min-height":"99px","width":"252px","top":"215px","left":"75px"},"silex-id-1472343103231-2":{"min-height":"99px","width":"252px","top":"357px","left":"72px"}},"mobile":{}}]
+        [{"desktop":{"body-initial":{"background-color":"rgb(38, 38, 38)"},"background-initial":{"background-color":"rgb(255, 255, 255)","top":"5px","left":"0px","width":"902px","min-height":"600px"},"silex-id-1442914589168-2":{"min-height":"50px","width":"400px","top":"635px","left":"6px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"28px","width":"250px","top":"13px","left":"80px"},"silex-id-1472313787502-0":{"min-height":"99px","width":"252px","top":"64px","left":"74px"},"silex-id-1472343098980-1":{"min-height":"99px","width":"252px","top":"215px","left":"75px"},"silex-id-1472343103231-2":{"min-height":"99px","width":"252px","top":"357px","left":"72px"},"silex-id-1472343397979-3":{"min-height":"100px","width":"100px","top":"17px","left":"24px","background-color":"rgb(255, 255, 255)"}},"mobile":{}}]
     </script>
     <title></title>
     <style id="current-page-style">
@@ -89,6 +96,7 @@
         <div data-silex-type="text" class="editable-style text-element silex-id-1472343103231-2 page-page-1 paged-element" data-silex-id="silex-id-1472343103231-2">
             <div class="silex-element-content normal">New text box</div>
         </div>
+        <div data-silex-type="container" class="editable-style silex-id-1472343397979-3 container-element page-page-1 paged-element" data-silex-id="silex-id-1472343397979-3"></div>
     </div>
     <div data-silex-id="silex-id-1442914589168-2" class="editable-style silex-id-1442914589168-2 container-element background" data-silex-type="container">
         <div data-silex-id="silex-id-1442914737143-3" class="editable-style silex-id-1442914737143-3 text-element" data-silex-type="text">
