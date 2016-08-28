@@ -20,6 +20,19 @@
         .body-initial {
             background-color: rgb(38, 38, 38); 
         }
+        .silex-id-1442914589168-2 {
+            min-height: 50px; 
+            width: 400px; 
+            top: 635px; 
+            left: 6px; 
+            background-color: transparent; 
+        }
+        .silex-id-1442914737143-3 {
+            min-height: 28px; 
+            width: 250px; 
+            top: 13px; 
+            left: 80px; 
+        }
         .background-initial {
             background-color: rgb(255, 255, 255); 
             top: 5px; 
@@ -52,27 +65,14 @@
             top: 357px; 
             left: 72px; 
         }
-        .silex-id-1442914589168-2 {
-            min-height: 50px; 
-            width: 400px; 
-            top: 635px; 
-            left: 6px; 
-            background-color: transparent; 
-        }
-        .silex-id-1442914737143-3 {
-            min-height: 28px; 
-            width: 250px; 
-            top: 13px; 
-            left: 80px; 
-        }
     </style>
 
     <script type="text/javascript" class="silex-json-styles">
-        [{"desktop":{"body-initial":{"background-color":"rgb(38, 38, 38)"},"background-initial":{"background-color":"rgb(255, 255, 255)","top":"5px","left":"0px","width":"902px","min-height":"600px"},"silex-id-1442914589168-2":{"min-height":"50px","width":"400px","top":"635px","left":"6px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"28px","width":"250px","top":"13px","left":"80px"},"silex-id-1472313787502-0":{"min-height":"99px","width":"252px","top":"64px","left":"74px"},"silex-id-1472343098980-1":{"min-height":"99px","width":"252px","top":"215px","left":"75px"},"silex-id-1472343103231-2":{"min-height":"99px","width":"252px","top":"357px","left":"72px"},"silex-id-1472343397979-3":{"min-height":"538px","width":"684px","top":"17px","left":"24px","background-color":"rgba(86,80,255,1)"}},"mobile":{}}]
+        [{"desktop":{"body-initial":{"background-color":"rgb(38, 38, 38)"},"background-initial":{"background-color":"rgb(255, 255, 255)","top":"5px","left":"0px","width":"902px","min-height":"600px"},"silex-id-1442914589168-2":{"min-height":"50px","width":"400px","top":"635px","left":"6px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"28px","width":"250px","top":"13px","left":"80px"},"silex-id-1472313787502-0":{"min-height":"99px","width":"252px","top":"64px","left":"74px"},"silex-id-1472343098980-1":{"min-height":"99px","width":"252px","top":"215px","left":"75px"},"silex-id-1472343103231-2":{"min-height":"99px","width":"252px","top":"357px","left":"72px"},"silex-id-1472343397979-3":{"min-height":"538px","width":"684px","top":"17px","left":"24px","background-color":"rgba(86,80,255,0.6078431372549019)"}},"mobile":{}}]
     </script>
     <title></title>
     <style id="current-page-style">
-        .page-page-1{display:inherit; }
+        .page-home{display:inherit; }
     </style>
     <!-- Silex HEAD tag do not remove -->
     <!-- End of Silex HEAD tag do not remove -->
@@ -85,19 +85,8 @@
             class="silex-element-content">
         </div>
 
-        <a id="page-page-1" data-silex-type="page" class="page-element page-link-active">Page 1</a></div>
-    <div data-silex-id="background-initial" class="background background-initial editable-style container-element prevent-draggable" data-silex-type="container">
-        <div data-silex-type="text" class="editable-style silex-id-1472313787502-0 text-element page-page-1 paged-element" data-silex-id="silex-id-1472313787502-0">
-            <div class="silex-element-content normal">New text box</div>
-        </div>
-        <div data-silex-type="text" class="editable-style text-element silex-id-1472343098980-1 page-page-1 paged-element" data-silex-id="silex-id-1472343098980-1">
-            <div class="silex-element-content normal">New text box</div>
-        </div>
-        <div data-silex-type="container" class="editable-style silex-id-1472343397979-3 container-element page-page-1 paged-element" data-silex-id="silex-id-1472343397979-3"></div>
-        <div data-silex-type="text" class="editable-style text-element silex-id-1472343103231-2 page-page-1 paged-element" data-silex-id="silex-id-1472343103231-2">
-            <div class="silex-element-content normal">New text box</div>
-        </div>
-    </div>
+        <a id="page-home" data-silex-type="page" class="page-element page-link-active">home</a></div>
+
     <div data-silex-id="silex-id-1442914589168-2" class="editable-style silex-id-1442914589168-2 container-element background" data-silex-type="container">
         <div data-silex-id="silex-id-1442914737143-3" class="editable-style silex-id-1442914737143-3 text-element" data-silex-type="text">
             <div class="silex-element-content normal">
@@ -110,6 +99,18 @@
 
 
 
+    <div data-silex-id="background-initial" class="background background-initial editable-style container-element prevent-draggable" data-silex-type="container">
+        <div data-silex-type="text" class="editable-style silex-id-1472313787502-0 text-element paged-element page-home" data-silex-id="silex-id-1472313787502-0">
+            <div class="silex-element-content normal">New text box</div>
+        </div>
+        <div data-silex-type="text" class="editable-style text-element silex-id-1472343098980-1 paged-element page-home" data-silex-id="silex-id-1472343098980-1">
+            <div class="silex-element-content normal">New text box</div>
+        </div>
+        <div data-silex-type="container" class="editable-style silex-id-1472343397979-3 container-element paged-element page-home" data-silex-id="silex-id-1472343397979-3"></div>
+        <div data-silex-type="text" class="editable-style text-element silex-id-1472343103231-2 paged-element page-home" data-silex-id="silex-id-1472343103231-2">
+            <div class="silex-element-content normal">New text box</div>
+        </div>
+    </div>
 </body>
 
 </html>
